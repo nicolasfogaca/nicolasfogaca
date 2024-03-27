@@ -34,8 +34,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nicolasfogaca/nicolasfogaca/output/snake.svg" alt="Snake animation" />
 
 ###
